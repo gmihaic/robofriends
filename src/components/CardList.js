@@ -14,9 +14,9 @@ const CardList = ({robots}) => {
             );
     });*/}
 
-    if (true) {
+    /*if (true) {
         throw new Error("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!");
-    }
+    }*/
 
     return (     
         <>  
